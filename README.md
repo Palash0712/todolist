@@ -1,2 +1,2 @@
 # todolist
-Add daily routine
+Add daily routine.
